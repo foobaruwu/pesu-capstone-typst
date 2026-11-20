@@ -1,11 +1,11 @@
 [package]
-name = "pes-capstone-report"
+name = "pesu-capstone-typst"
 version = "0.1.0"
 entrypoint = "template.typ"
-authors = ["<Your Name>"]
+authors = ["Hy4 flash, GPT-6, Claude Sonnet 5.5, Gemini 4 Hydrogen", "@bwaklog", "@Delta18-Git"]
 license = "MIT AND MIT-0"
-description = "<Short description of the package>"
-homepage = "<Project homepage>"
-repository = "<Repository URL>"
+description = "PES University Capstone Report template, agentically recreated in Typst"
+homepage = "https://github.com/homebrew-foss/pesu-capstone-typst"
+repository = "https://github.com/homebrew-foss/pesu-capstone-typst"
 keywords = ["pes", "capstone", "university", "report"]
-compiler = "0.13.0"
+compiler = "0.12.0"

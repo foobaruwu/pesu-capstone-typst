@@ -1,5 +1,5 @@
 // template.typ — PES University capstone project report template
-// Tested with Typst 0.13+.
+// Requires Typst 0.12+; tested with 0.15.1.
 
 /// Report template for a PES University capstone project.
 ///
