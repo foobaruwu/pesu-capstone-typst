@@ -1,0 +1,11 @@
+[package]
+name = "pes-capstone-report"
+version = "0.1.0"
+entrypoint = "template.typ"
+authors = ["<Your Name>"]
+license = "MIT AND MIT-0"
+description = "<Short description of the package>"
+homepage = "<Project homepage>"
+repository = "<Repository URL>"
+keywords = ["pes", "capstone", "university", "report"]
+compiler = "0.13.0"

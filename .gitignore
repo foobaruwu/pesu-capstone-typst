@@ -1,0 +1,6 @@
+# Local-only real names — never publish these.
+private/
+
+# Build output and old archive.
+main.pdf
+capstone-template.zip
